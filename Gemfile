@@ -16,6 +16,8 @@ gem 'coffee-rails', '~> 4.1.0'
 gem 'twitter-bootstrap-rails', :git => 'git://github.com/seyhunak/twitter-bootstrap-rails.git'
 # Use jquery as the JavaScript library
 gem 'font-awesome-rails'
+gem 'simple_form'
+gem 'devise'
 gem 'jquery-rails'
 # Turbolinks makes following links in your web application faster. Read more: https://github.com/rails/turbolinks
 gem 'turbolinks'
