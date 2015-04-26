@@ -15,6 +15,7 @@ gem 'coffee-rails', '~> 4.1.0'
 # gem 'therubyracer', platforms: :ruby
 gem 'twitter-bootstrap-rails', :git => 'git://github.com/seyhunak/twitter-bootstrap-rails.git'
 # Use jquery as the JavaScript library
+gem 'auto_html'
 gem 'font-awesome-rails'
 gem 'simple_form'
 gem 'devise'
